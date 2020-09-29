@@ -1,0 +1,110 @@
+body {
+
+    background-color:#11DBCE;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 18px;
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+figure{
+    border-radius: 10%;
+}
+
+img {
+    max-width: 100%;
+    
+    }
+
+header h1 {
+    background-color: rgba(255, 253, 181, 0.5);
+} 
+
+blockquote{
+    font-size: 160%;
+    
+}
+
+.bon,
+.mauvais {
+    text-transform: capitalize;
+}
+
+.mauvais {
+    color: #ff0000;
+}
+
+.bon{
+    color: #1e8000;
+}
+
+/* T A B L E */
+
+    table {
+        border-spacing: 0;
+        border-collapse: collapse;
+        width: 60%;
+    }
+
+    table th,
+    table td {
+            border: 1px solid rgb(108, 163, 104);
+            padding: 10px;
+        }
+
+    table th {
+        width: 100px;
+        text-align: left;
+        background-color: rgb(108, 163, 104);
+    }
+
+    tr:nth-child(even) {
+        background-color: rgba(108, 163, 104, 0.2);
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
